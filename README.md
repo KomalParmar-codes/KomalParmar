@@ -1,6 +1,6 @@
 # Hi, I'm KomalParmar
 # 💫 About Me:
-🎓Second-year B.Tech CSE student<br>💡 Strong foundation in C, C++, Java, Python, and Data Structures & Algorithms (DSA).<br>🧠 Skilled in Data Science using Python libraries — NumPy, Pandas, Scikit-learn.<br>🚀 Interested in AI, Machine Learning, and Full-Stack Development.
+🎓Second-year B.Tech CSE student<br>💡 Strong foundation in C, C++, Java, Python, and Data Structures & Algorithms (DSA).<br>🧠 Skilled in Data Science using Python libraries — NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn.<br>🚀 Interested in AI, Machine Learning, and Full-Stack Development.
 
 
 # 💻 Tech Stack:
